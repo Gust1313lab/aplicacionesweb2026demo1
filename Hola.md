@@ -1,2 +1,0 @@
-# aplicacionesweb2026demo1
-Hola
